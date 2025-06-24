@@ -1,4 +1,4 @@
-Avast Antivirus Download
+How to Download Avast Antivirus?
 =========================
 
 Avast Antivirus is a leading cybersecurity solution designed to protect users from various threats such as viruses, malware, spyware, and ransomware. This guide will provide a detailed overview of Avast Antivirus, its features, and the process of downloading and installing it on your system.
